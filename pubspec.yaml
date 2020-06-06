@@ -1,0 +1,45 @@
+name: career_mentor
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  animated_text_kit: ^2.0.0
+  google_sign_in: ^4.1.4
+  cloud_firestore: ^0.13.4
+  firebase_auth: ^0.15.5+2
+  firebase_core: ^0.4.4+2
+  fluttertoast: ^3.1.3
+  firebase_storage: ^3.1.6
+  cached_network_image: ^2.2.0+1
+  firebase_database: ^3.1.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/
+
+  fonts:
+    - family: Horizon
+      fonts:
+        - asset: assets/Horizon.otf
+    - family: HorizonItalic
+      fonts:
+        - asset: assets/HorizonItalic.otf
+    - family: FredokaOne
+      fonts:
+        - asset: assets/FredokaOne-Regular.ttf
+
