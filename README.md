@@ -1,16 +1,6 @@
 # career_mentor
 
-A new Flutter application.
+Career Mentor is Flutter application which gives best possible stream of study (Arts/Commerce/Science) after 10th standard based on set of questions.
+We have used Expert System for dynamic question generation based on previous answer of questions.
+So every user gets different set of questions based on their given answers.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
