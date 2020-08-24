@@ -10,4 +10,4 @@ So every user gets different set of questions based on their given answers.
 
 ## Tree of questions
 
-![](images/Tree.png)
+![](images/Tree.jpg)
