@@ -4,3 +4,6 @@ Career Mentor is Flutter application which gives best possible stream of study (
 We have used Expert System for dynamic question generation based on previous answer of questions.
 So every user gets different set of questions based on their given answers.
 
+# Screenshots
+
+![](images/Screens.png)
