@@ -1,5 +1,4 @@
 import 'dart:math';
-
 import 'package:career_mentor/components/alert_dialogs.dart';
 import 'package:career_mentor/components/auth_service.dart';
 import 'package:career_mentor/components/bubble_button.dart';
